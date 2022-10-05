@@ -17,7 +17,7 @@
  <a href="mailto:joaog00@hotmail.com" mailto="mailto:joaog00@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Email">
   </a>
- <a href="https://bigodezinho.github.io/"target="_blank">
+  <a href="https://Bigodezinho.github.io/"target="_blank">
     <img src="https://img.shields.io/badge/-Website-%23071a2c" alt="Gmail">
   </a>
 </div>
