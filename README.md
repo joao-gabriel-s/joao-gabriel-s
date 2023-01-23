@@ -2,7 +2,7 @@
 
 -📚 Cursando análise e desenvolvimento de sistemas (UNIVALI).
 
--📚 Cursando o treinamento Entra21.
+-📚 Entra21.
 
 -💡 Sempre disposto a aprender.
 
