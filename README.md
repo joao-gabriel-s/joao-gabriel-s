@@ -104,7 +104,7 @@
 
 <center>
 
-![João Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Bigodezinho&show_icons=true&theme=radical)
+![João Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-gabriel-s&show_icons=true&theme=radical)
 
 <br>
 
