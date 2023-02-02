@@ -71,7 +71,7 @@
 <hr>
 
 ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat&logo=Flutter&logoColor=13b9fd)&nbsp;
-![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)&nbsp;
+![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=flat&logo&logo=xamarin&logoColor=white)&nbsp;
 
 <br>
 </center>
