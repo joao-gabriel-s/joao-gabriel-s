@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=inconsolata&size=35&color=22899F&center=true&width=600&height=80&lines=Hello+World%2C+it's+me%2C+João%F0%9F%8C%8E!)](https://git.io/typing-svg)
 <br>
-### 📝Portifólio: [https://joao-gabriel-s.github.io/]
+### 📝Portifólio: ![github]https://joao-gabriel-s.github.io/
 <br>
 
 -📚 Cursando análise e desenvolvimento de sistemas (UNIVALI).<br>
