@@ -8,19 +8,20 @@
 -💡 Sempre disposto a aprender.<br>
 
 <br>
-
-<div  align="left">
- <a href="https://www.linkedin.com/in/joao-gabriel-s/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
-  </a>
- <a href="mailto:joaog00@hotmail.com" mailto="mailto:joaog00@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Email">
-  </a>
-  <a href="https://joao-gabriel-s.github.io/"target="_blank">
-    <img src="https://img.shields.io/badge/-Website-%23071a2c" alt="Gmail">
-  </a>
+<div align="left">
+    <a href="https://www.linkedin.com/in/joao-gabriel-s/">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C"
+            alt="LinkedIn">
+    </a>
+    <a href="mailto:joaog00@hotmail.com" mailto="mailto:joaog00@hotmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C"
+            alt="Email">
+    </a>
+    <a href="https://joao-gabriel-s.github.io/" target="_blank">
+        <img src="https://img.shields.io/badge/-Website-%23071a2c" alt="Gmail">
+    </a>
 </div>
-<div  align="left">
+<div align="left">
 
 <details><summary>🔧 <h1>Tools I've worked</h1></summary> 
 
