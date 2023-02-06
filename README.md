@@ -26,8 +26,6 @@
 <br>
 <div align="center"  height="200px";width:150px;>
 
-<img src=./octocat.png width="300" style="max-width: 100%;">
-
 <br>
 <div  align="left">
 
