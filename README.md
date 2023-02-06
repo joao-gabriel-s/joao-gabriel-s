@@ -22,8 +22,8 @@
     </a>
 </div>
 
-<details>
-<br>
+<details><br><br>
+
 #### Front-end
 
 <center>
