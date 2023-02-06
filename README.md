@@ -22,7 +22,7 @@
     </a>
 </div>
 
-<details><summary>🔧 <h1>Tools I've worked</h1></summary> 
+<summary>🔧 <h1>Tools I've worked</h1></summary> 
 
 #### Front-end
 
