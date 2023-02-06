@@ -21,8 +21,8 @@
         <img src="https://img.shields.io/badge/-Website-%23071a2c" alt="Gmail">
     </a>
 </div>
-
-<details><br><br>
+<br>
+<details>
 
 #### Front-end
 
