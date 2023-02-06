@@ -1,5 +1,4 @@
-[![Typing
-SVG](https://readme-typing-svg.herokuapp.com?font=inconsolata&size=35&color=22899F&center=true&width=600&height=80&lines=Hello+World%2C+it's+me%2C+João%F0%9F%8C%8E!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=inconsolata&size=35&color=22899F&center=true&width=600&height=80&lines=Hello+World%2C+it's+me%2C+João%F0%9F%8C%8E!)](https://git.io/typing-svg)
 <br>
 ### 📝Portifólio: https://joao-gabriel-s.github.io/
 <br>
@@ -10,118 +9,112 @@ SVG](https://readme-typing-svg.herokuapp.com?font=inconsolata&size=35&color=2289
 
 <br>
 
-<div align="left">
-    <a href="https://www.linkedin.com/in/joao-gabriel-s/">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C"
-            alt="LinkedIn">
-    </a>
-    <a href="mailto:joaog00@hotmail.com" mailto="mailto:joaog00@hotmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Email-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C"
-            alt="Email">
-    </a>
-    <a href="https://joao-gabriel-s.github.io/" target="_blank">
-        <img src="https://img.shields.io/badge/-Website-%23071a2c" alt="Gmail">
-    </a>
+<div  align="left">
+ <a href="https://www.linkedin.com/in/joao-gabriel-s/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
+  </a>
+ <a href="mailto:joaog00@hotmail.com" mailto="mailto:joaog00@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Email">
+  </a>
+  <a href="https://joao-gabriel-s.github.io/"target="_blank">
+    <img src="https://img.shields.io/badge/-Website-%23071a2c" alt="Gmail">
+  </a>
 </div>
 <br>
-<div align="center" height="200px" ;width:150px;>
-    <br>
-    <div align="left">
+<div align="center"  height="200px";width:150px;>
+<br>
+<div  align="left">
 
-        <details>
-            <summary>🔧 <h1>Tools I've worked</h1>
-            </summary>
+<details><summary>🔧 <h1>Tools I've worked</h1></summary> 
 
-            #### Front-end
+#### Front-end
 
-            <center>
-                <hr>
+<center>
+<hr>
 
-                ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5)&nbsp;
-                ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-                ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap)&nbsp;
-                ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)&nbsp;
-                ![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat&logo=typescript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat&logo=typescript)&nbsp;
 
-                <br>
+<br>
 
-            </center>
+</center>
 
-            #### Back-end
-            <center>
-                <hr>
+#### Back-end
+<center>
+<hr>
 
-                ![C#](https://img.shields.io/badge/C%23-000000?style=flat&logo=c-sharp&logoColor=purple)&nbsp;
+![C#](https://img.shields.io/badge/C%23-000000?style=flat&logo=c-sharp&logoColor=purple)&nbsp;
 
-                <br>
-            </center>
+<br>
+</center>
 
-            #### Database
+#### Database
 
-            <center>
-                <hr>
+<center>
+<hr>
 
-                ![MySql](https://img.shields.io/badge/-MySql-black?style=flat&logo=mysql)&nbsp;
-                ![SqlServer](https://img.shields.io/badge/-SqlServer-black?style=flat&logo=microsoft-Sql-Server)&nbsp;
+![MySql](https://img.shields.io/badge/-MySql-black?style=flat&logo=mysql)&nbsp;
+![SqlServer](https://img.shields.io/badge/-SqlServer-black?style=flat&logo=microsoft-Sql-Server)&nbsp;
 
-                <br>
-            </center>
+<br>
+</center>
 
-            #### Mobile
+#### Mobile
 
-            <center>
-                <hr>
+<center>
+<hr>
 
-                ![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat&logo=Flutter&logoColor=13b9fd)&nbsp;
-                ![Xamarin](https://img.shields.io/badge/-Xamarin-black?style=flat&logo=xamarin&logoColor=13b9fd)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat&logo=Flutter&logoColor=13b9fd)&nbsp;
+![Xamarin](https://img.shields.io/badge/-Xamarin-black?style=flat&logo=xamarin&logoColor=13b9fd)&nbsp;
 
-                <br>
-            </center>
+<br>
+</center>
 
-            #### IDE
+#### IDE
 
-            <center>
-                <hr>
+<center>
+<hr>
 
-                ![Visual Studio
-                Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-                ![Visual
-                Studio](https://img.shields.io/badge/-Visual%20Studio-black?style=flat&logo=visual-studio&logoColor=purple)&nbsp;
-                <br>
-            </center>
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-black?style=flat&logo=visual-studio&logoColor=purple)&nbsp;
+<br>
+</center>
 
-            #### Versioning
+#### Versioning
 
-            <center>
-                <hr>
+<center>
+<hr>
 
-                ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)&nbsp;
-                ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)&nbsp;
 
-                <br>
-            </center>
+<br>
+</center>
 
-            <hr>
+<hr>
 
-            <details>
-                <summary> 📈 My GitHub Stats </summary>
-                <p>
-                <p align="center">
+<details><summary> 📈 My GitHub Stats  </summary>
+<p>
+<p align="center">
 
-                    <center>
+<center>
 
-                        ![João Gabriel GitHub
-                        stats](https://github-readme-stats.vercel.app/api?username=joao-gabriel-s&show_icons=true&theme=radical)
+![João Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-gabriel-s&show_icons=true&theme=radical)
 
-                        <br>
+<br>
 
-
-    </div>
-    </p>
-    </details>
-
-    <hr>
-    <br>
 
 </div>
+</p>
+</details>
+
+<hr>
 <br>
+
+</div>
+<br> 
+
+
