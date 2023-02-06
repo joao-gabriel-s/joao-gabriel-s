@@ -22,7 +22,7 @@
     </a>
 </div>
 <br>
-<details><a>Detalhes</a>
+<details><summary>Ferramentas</summary>
 
 #### Front-end
 
